@@ -3,7 +3,7 @@
 </a></br></br>
 Hi friends, Back to office we will need a social distancing office badge, In this video we have made a device which helps to maintain the social distance, a little contribution towards the safety from COVID19. #socialdistance #arduinoproject</br></br>
 
-
+<img src="http://dkardu.oss-cn-hongkong.aliyuncs.com/SocialDistance/Circuit%20diagram.jpg" /></br>
 Which you will need following parts:</br></br>
 Arduino NANO, https://amzn.to/3hB8Pwf</br>
 HC-SR501, https://amzn.to/3aJAOHX</br>
